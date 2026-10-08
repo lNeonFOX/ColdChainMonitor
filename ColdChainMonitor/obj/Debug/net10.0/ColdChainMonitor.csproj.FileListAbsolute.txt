@@ -1,0 +1,14 @@
+C:\Users\Taimas\ColdChainMonitor\ColdChainMonitor\bin\Debug\net10.0\ColdChainMonitor.exe
+C:\Users\Taimas\ColdChainMonitor\ColdChainMonitor\bin\Debug\net10.0\ColdChainMonitor.deps.json
+C:\Users\Taimas\ColdChainMonitor\ColdChainMonitor\bin\Debug\net10.0\ColdChainMonitor.runtimeconfig.json
+C:\Users\Taimas\ColdChainMonitor\ColdChainMonitor\bin\Debug\net10.0\ColdChainMonitor.dll
+C:\Users\Taimas\ColdChainMonitor\ColdChainMonitor\bin\Debug\net10.0\ColdChainMonitor.pdb
+C:\Users\Taimas\ColdChainMonitor\ColdChainMonitor\obj\Debug\net10.0\ColdChainMonitor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Taimas\ColdChainMonitor\ColdChainMonitor\obj\Debug\net10.0\ColdChainMonitor.AssemblyInfoInputs.cache
+C:\Users\Taimas\ColdChainMonitor\ColdChainMonitor\obj\Debug\net10.0\ColdChainMonitor.AssemblyInfo.cs
+C:\Users\Taimas\ColdChainMonitor\ColdChainMonitor\obj\Debug\net10.0\ColdChainMonitor.csproj.CoreCompileInputs.cache
+C:\Users\Taimas\ColdChainMonitor\ColdChainMonitor\obj\Debug\net10.0\ColdChainMonitor.dll
+C:\Users\Taimas\ColdChainMonitor\ColdChainMonitor\obj\Debug\net10.0\refint\ColdChainMonitor.dll
+C:\Users\Taimas\ColdChainMonitor\ColdChainMonitor\obj\Debug\net10.0\ColdChainMonitor.pdb
+C:\Users\Taimas\ColdChainMonitor\ColdChainMonitor\obj\Debug\net10.0\ColdChainMonitor.genruntimeconfig.cache
+C:\Users\Taimas\ColdChainMonitor\ColdChainMonitor\obj\Debug\net10.0\ref\ColdChainMonitor.dll
